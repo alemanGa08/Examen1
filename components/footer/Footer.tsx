@@ -9,12 +9,12 @@ const Footer = () => {
             <h4>Contacto</h4>
             <ul className="list-unstyled">
               <li>
-                <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.facebook.com/gabrielaaleman" target="_blank" rel="noopener noreferrer">
                   <FaFacebook /> Gabriela Aleman
                 </a>
               </li>
               <li>
-                <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.instagram.com/gabyaleman08" target="_blank" rel="noopener noreferrer">
                   <FaInstagramSquare /> gabyaleman08
                 </a>
               </li>
@@ -42,6 +42,7 @@ const Footer = () => {
 };
 
 export default Footer;
+
 
 
 
