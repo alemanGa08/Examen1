@@ -15,7 +15,8 @@ const PersonalInfo = () => {
           DigitalDreams es una empresa dedicada a proporcionar soluciones digitales innovadoras para empresas y personas que buscan mejorar su presencia en línea. Ofrecemos servicios como diseño web, desarrollo de aplicaciones móviles, marketing digital, optimización de motores de búsqueda (SEO), gestión de redes sociales y desarrollo de software personalizado. Nuestro objetivo es ayudar a nuestros clientes a lograr sus objetivos en línea y hacer realidad sus sueños digitales. Con un enfoque en la calidad y el servicio al cliente, estamos comprometidos en proporcionar soluciones digitales de última generación que impulsen el éxito de nuestros clientes.
         </p>
         <a
-          href="https://www.linkedin.com/feed/"
+          href="www.linkedin.com/in/
+          gabriela-ramirez-aleman-54974a274"
           target="_blank"
           className="btn btn-primary"
           rel="noopener noreferrer"
