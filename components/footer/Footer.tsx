@@ -9,7 +9,7 @@ const Footer = () => {
             <h4>Contacto</h4>
             <ul className="list-unstyled">
               <li>
-                <a href="https://www.facebook.com/gabrielaaleman" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.facebook.com/gaby.aleman.08?mibextid=LQQJ4d" target="_blank" rel="noopener noreferrer">
                   <FaFacebook /> Gabriela Aleman
                 </a>
               </li>
