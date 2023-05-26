@@ -24,7 +24,7 @@ const Footer = () => {
             <h4>Contáctame</h4>
             <ul className="list-unstyled">
               <li>
-                <a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/+50685179240" target="_blank" rel="noopener noreferrer">
                   <FaWhatsapp /> +(506) 85179240
                 </a>
               </li>
